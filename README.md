@@ -1,5 +1,5 @@
 # Đồ án môn học Nhập môn Công Nghệ Phần Mềm
-Project Phần mềm quản lí ...
+Project Phần mềm quản lí nhà sách
 
 # Các thành viên trong nhóm
 1.  Vương Gia Phú
@@ -14,4 +14,4 @@ Project Phần mềm quản lí ...
 Ths. Nguyễn Công Hoan
 
 # Mô tả đồ án
-...
+Phần mềm quản lí nhà sách, sử dụng mô hình 3 lớp
