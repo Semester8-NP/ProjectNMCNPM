@@ -1,0 +1,8 @@
+E:\cpp\da_NMCNPM\QLNS\Ultility\bin\Debug\Ultility.dll
+E:\cpp\da_NMCNPM\QLNS\Ultility\bin\Debug\Ultility.pdb
+E:\cpp\da_NMCNPM\QLNS\Ultility\bin\Debug\Ultility.xml
+E:\cpp\da_NMCNPM\QLNS\Ultility\obj\Debug\Ultility.Resources.resources
+E:\cpp\da_NMCNPM\QLNS\Ultility\obj\Debug\Ultility.vbproj.GenerateResource.Cache
+E:\cpp\da_NMCNPM\QLNS\Ultility\obj\Debug\Ultility.dll
+E:\cpp\da_NMCNPM\QLNS\Ultility\obj\Debug\Ultility.xml
+E:\cpp\da_NMCNPM\QLNS\Ultility\obj\Debug\Ultility.pdb

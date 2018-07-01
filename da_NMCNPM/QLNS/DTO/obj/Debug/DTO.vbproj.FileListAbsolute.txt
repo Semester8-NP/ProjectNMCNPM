@@ -1,0 +1,9 @@
+E:\cpp\da_NMCNPM\QLNS\DTO\bin\Debug\DTO.dll
+E:\cpp\da_NMCNPM\QLNS\DTO\bin\Debug\DTO.pdb
+E:\cpp\da_NMCNPM\QLNS\DTO\bin\Debug\DTO.xml
+E:\cpp\da_NMCNPM\QLNS\DTO\obj\Debug\DTO.Resources.resources
+E:\cpp\da_NMCNPM\QLNS\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+E:\cpp\da_NMCNPM\QLNS\DTO\obj\Debug\DTO.dll
+E:\cpp\da_NMCNPM\QLNS\DTO\obj\Debug\DTO.xml
+E:\cpp\da_NMCNPM\QLNS\DTO\obj\Debug\DTO.pdb
+E:\cpp\da_NMCNPM\QLNS\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache

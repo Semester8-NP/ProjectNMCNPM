@@ -1,0 +1,15 @@
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\DAL.dll
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\DAL.pdb
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\DAL.xml
+E:\cpp\da_NMCNPM\QLNS\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+E:\cpp\da_NMCNPM\QLNS\DAL\obj\Debug\DAL.Resources.resources
+E:\cpp\da_NMCNPM\QLNS\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\cpp\da_NMCNPM\QLNS\DAL\obj\Debug\DAL.dll
+E:\cpp\da_NMCNPM\QLNS\DAL\obj\Debug\DAL.xml
+E:\cpp\da_NMCNPM\QLNS\DAL\obj\Debug\DAL.pdb
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\DTO.dll
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\Utility.dll
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\DTO.pdb
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\DTO.xml
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\Utility.pdb
+E:\cpp\da_NMCNPM\QLNS\DAL\bin\Debug\Utility.xml

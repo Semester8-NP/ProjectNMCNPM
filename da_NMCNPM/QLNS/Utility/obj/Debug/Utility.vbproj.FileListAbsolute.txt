@@ -1,0 +1,9 @@
+E:\cpp\da_NMCNPM\QLNS\Utility\bin\Debug\Utility.dll
+E:\cpp\da_NMCNPM\QLNS\Utility\bin\Debug\Utility.pdb
+E:\cpp\da_NMCNPM\QLNS\Utility\bin\Debug\Utility.xml
+E:\cpp\da_NMCNPM\QLNS\Utility\obj\Debug\Utility.Resources.resources
+E:\cpp\da_NMCNPM\QLNS\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+E:\cpp\da_NMCNPM\QLNS\Utility\obj\Debug\Utility.dll
+E:\cpp\da_NMCNPM\QLNS\Utility\obj\Debug\Utility.xml
+E:\cpp\da_NMCNPM\QLNS\Utility\obj\Debug\Utility.pdb
+E:\cpp\da_NMCNPM\QLNS\Utility\obj\Debug\Utility.vbprojResolveAssemblyReference.cache
